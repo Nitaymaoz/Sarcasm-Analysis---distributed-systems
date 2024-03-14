@@ -1,7 +1,4 @@
-Nitay Maoz 313359341
-
-Niv Yaakov 315311118
-
+Nitay Maoz
 
 
 The app receives as an input text files that each one is a json that represents Reviews on amazon.
